@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #EAE2B7;
+}
+
+.name{
+    width: 100%;
+    height: 300px;
+    background: #F77F00;
+    transform: skewY(-2deg);
+}
+
+.name .contenido{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 25%;
+}
+
+.name .contenido .p-1{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    transform: skewY(2deg);
+    margin-bottom: 0;
+
+}
+.name .contenido .p-2{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-size: medium;
+    transform: skewY(2deg);
+    margin-top: 40;
+    margin-bottom: 40;
+}
+
+.name .img{
+    position: absolute;
+    top: 8%;
+    right: 5%;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    transform: skewY(-2deg);
+    overflow: hidden;
+}
+.name .img img{
+    width: 750px;
+    height: 1000px;
+}
+
+.info{
+    width: 90%;
+    height: 220px;
+    background: #D62828;
+    margin: 3% auto;
+    padding: 10%;
+}
+
+.info .tituloSeccion{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 4px #EAE2B7 solid;
+}
+
+.info .tituloInfo{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+
+.info .infor{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
+.info .DireccionTitulo{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+.info .DireccionEscrito{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
+
+.info .DocumentoIdentidadTitulo{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+.info .DocumentoIndentidadEscrtio{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
+
+.info .FechaNaciTitulo{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+
+}.info .FechaNaciEscrito{
+     color: black;
+     font-family: 'Golos Text', sans-serif;
+     font-weight: normal;
+     font-size: medium;
+     display: inline;
+ }
+
+ .info .CelularTitulo{
+     color: black;
+     font-family: 'Golos Text', sans-serif;
+     font-weight: bolder;
+     font-size: large;
+     display: inline;
+ }
+.info .CelularEscrito{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
+.info .EdadTitulo{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+.info .EdadEscrito{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
+.info .CorreoTitulo{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+}
+.info .CorreoEscrito{
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    font-weight: normal;
+    font-size: medium;
+    display: inline;
+}
